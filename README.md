@@ -16,6 +16,13 @@ I'm currently exploring the following games, which I play on my Linux desktop:
 * Oxygen not included: I restart way too often
 * Pillars of Eternity II and Farthest Frontier: next up on my list
 
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ilestis&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilestis&theme=dracula&hide_border=false" />
+</p>
+
 <!--
 **ilestis/ilestis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
